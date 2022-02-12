@@ -1,0 +1,24 @@
+:root {
+	/* ------------------------------ Colors ------------------------------ */
+	--color-base-white: #ffffff;
+	--color-base-black: #000000;
+	--color-chinese-black: #14161a;
+	--color-orange-yellow: #eebc1d;
+	--color-gold: #ffd700;
+	--color-dark-liver: #4c4e51;
+	--color-charleston-green: #26282c;
+	--color-vivid-red: #f00b0f;
+	--color-granite-gray: #606060;
+	--color-arsenic: #424242;
+	--color-davy-grey: #5c5d5d;
+
+	/* ------------------------------ Theme Colors ------------------------------ */
+	--color-theme-bg: var(--color-chinese-black);
+
+	/* ------------------------------ Font ------------------------------ */
+	--font-family: Montserrat;
+
+	--font-weight-base-regular: 400;
+	--font-weight-base-medium: 500;
+	--font-weight-base-bold: 700;
+}
