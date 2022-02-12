@@ -47,7 +47,7 @@ yarn start
 
 ### Committing the code.
 
-- Ensure there are no lint errors by running `yarn lint`.
+- Ensure there are no lint errors by running `yarn lint:fix`.
 
 - Ensure there are no build errors by running `yarn build`.
 
