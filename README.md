@@ -35,6 +35,16 @@ yarn start
 
 - If the build is successful navigate to [localhost](http://localhost:8100/)
 
+### Run Storybook
+
+- CD to the project directory and run the below commands
+
+```
+yarn storybook
+```
+
+- If the storybook build is successful navigate to [storybook localhost](http://localhost:6006)
+
 ## Contributing
 
 ### Branching
