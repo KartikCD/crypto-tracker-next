@@ -1,0 +1,45 @@
+.headerStyle {
+    background-color: transparent;
+}
+
+.headerRoot {
+    min-height: 5.6rem;
+    padding: 0 1.6rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerTitle {
+    color: var(--pageTitle-text-color) !important;
+    font-size: var(--pageTitle-text-size);
+    font-weight: var(--pageTitle-font-weight);
+    cursor: pointer;
+    line-height: 1.6;
+    width: 25%;
+    letter-spacing: 0.0075rem;
+    text-align: center;
+}
+
+.headerDropdown {
+    width: 65%;
+}
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .headerDropdown {
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .headerDropdown {
+        width: 30%;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+    .headerDropdown {
+        width: 25%;
+    }
+}

@@ -1,4 +1,6 @@
 {
     "description": "Crypto Tracker App with translation",
-    "changeLanguageButton": "Change language to Hindi"
+    "changeLanguageButton": "Change language to Hindi",
+
+    "pageTitle": "Crypto Tracker" 
 }

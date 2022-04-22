@@ -29,4 +29,10 @@
 	--dropdown-font-family: var(--font-family);
 	--dropdown-font-weight: var(--font-weight-base-medium);
 	--dropdown-text-color: var(--color-base-white);
+
+	/* ------------------------------ Page Title Styles ------------------------------ */
+	--pageTitle-text-color: var(--color-gold);
+	--pageTitle-text-size: 1.8rem;
+	--pageTitle-font-weight: var(--font-weight-base-bold);
+
 }
