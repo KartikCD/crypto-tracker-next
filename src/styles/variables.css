@@ -21,4 +21,12 @@
 	--font-weight-base-regular: 400;
 	--font-weight-base-medium: 500;
 	--font-weight-base-bold: 700;
+
+	/* ------------------------------ Dropdown Styles ------------------------------ */
+	--dropdown-font-size: 1.6rem;
+	--dropdown-border-color: var(--color-base-white);
+	--dropdown-background-color: var(--color-charleston-green);
+	--dropdown-font-family: var(--font-family);
+	--dropdown-font-weight: var(--font-weight-base-medium);
+	--dropdown-text-color: var(--color-base-white);
 }
