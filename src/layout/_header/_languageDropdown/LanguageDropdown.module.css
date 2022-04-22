@@ -1,0 +1,21 @@
+.dropdownStyle {
+    width: 45% !important;
+}
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .dropdownStyle {
+        width: 40% !important;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .dropdownStyle {
+        width: 35% !important;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+    .dropdownStyle {
+        width: 30% !important;
+    }
+}

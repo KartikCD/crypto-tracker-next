@@ -1,4 +1,6 @@
 {
     "description": "अनुवाद के साथ क्रिप्टो ट्रैकर ऐप",
-    "changeLanguageButton": "भाषा को अंग्रेजी में बदलें"
+    "changeLanguageButton": "भाषा को अंग्रेजी में बदलें",
+
+    "pageTitle": "Crypto Tracker" 
 }
