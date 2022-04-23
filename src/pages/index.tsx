@@ -5,6 +5,7 @@ import styles from "../styles/Home.module.css";
 
 const Home: NextPage = React.memo(() => {
 	const { t } = useTranslation();
+
 	return <div className={styles.container}>{t("description")}</div>;
 });
 
